@@ -6,7 +6,7 @@ public class Loops {
             i++;
 
         }
-        System.out.println(sum);
+        System.out.println("Sum: " + sum);
 
     }
 }
