@@ -16,12 +16,6 @@ public class Multiplication {
 //                    System.out.print(c[i][j] + " ");
 //
 //                } System.out.println();
-
-
-
-
-
-
             //ForSum
 
 
@@ -49,7 +43,7 @@ public class Multiplication {
                  Scanner  scanner= new Scanner(System.in);
 
                 // Input from the user
-                System.out.print("Enter the number of terms for the Fibonacci sequence: ");
+                System.out.print("Enter the number of terms for the Fibonacci sequence: "); //It means sum of two previous terms to create next number
                 int n = scanner.nextInt();
 
                 // First two terms of the Fibonacci sequence
@@ -68,6 +62,7 @@ public class Multiplication {
                 }
             }
         }
+
 
 
 
